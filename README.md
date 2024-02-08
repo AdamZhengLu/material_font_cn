@@ -18,3 +18,5 @@ I get "JYRB", "MZSY" and "YZGGPB" from web. Here is the website address: [Zhaozi
 They are tiny and beautiful thus I add these characters by myself and share them.
 
 **These fronts are all "sharing fonts" or "free commercial" types**. Here is the license page: [softsq](https://www.zhaozi.cn/html/softsq.html).
+
+==========
